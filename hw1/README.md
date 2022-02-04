@@ -1,2 +1,2 @@
 # HW1
-Датасет: https://yadi.sk/d/nLxJzMi-OwDhRQ 
+Data: https://yadi.sk/d/nLxJzMi-OwDhRQ 
